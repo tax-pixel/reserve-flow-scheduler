@@ -1,0 +1,85 @@
+{
+  "version": "2",
+  "flowTitle": "Tax Upload Reservation Flow",
+  "trigger": {
+    "valid": true,
+    "type": "WEBHOOK",
+    "settings": {
+      "input": {
+        "type": "object",
+        "properties": {
+          "notes": {
+            "type": "string",
+            "description": "Input for notes"
+          },
+          "client_name": {
+            "type": "string",
+            "description": "Input for client_name"
+          },
+          "spouse_name": {
+            "type": "string",
+            "description": "Input for spouse_name"
+          },
+          "upload_week": {
+            "type": "string",
+            "description": "Input for upload_week"
+          },
+          "client_email": {
+            "type": "string",
+            "description": "Input for client_email"
+          },
+          "client_phone": {
+            "type": "string",
+            "description": "Input for client_phone"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "actions": [
+    {
+      "name": "aefa73e5-d790-4755-9807-668ff4eb485d",
+      "valid": false,
+      "displayName": "Add Reservation to Project",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "1.0.0",
+        "actionName": "task.create",
+        "input": {
+          "content": "{{ trigger[\"body\"][\"client_name\"] }} – {{ trigger[\"body\"][\"upload_week\"] }} | Spouse: {{ trigger[\"body\"][\"spouse_name\"] }} | Email: {{ trigger[\"body\"][\"client_email\"] }}",
+          "position": "afterbegin",
+          "projectId": {
+            "type": "flow-template-variable-input-type",
+            "id": "zRxJcLi6EcsFdA3Z"
+          }
+        }
+      }
+    },
+    {
+      "name": "3f5b8250-a3a7-4225-9b34-0f77aae9d8bf",
+      "valid": false,
+      "displayName": "Send Confirmation & Payment Email",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-piece-gmail",
+        "pieceVersion": "1.0.0",
+        "actionName": "sendEmail",
+        "input": {
+          "to": "{{ trigger[\"body\"][\"client_email\"] }}",
+          "subject": "Your Tax Upload Week is Reserved – {{ trigger[\"body\"][\"upload_week\"] }}",
+          "bodyHtml": "<div style=\"font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto; padding: 20px; color: #333;\"><h2 style=\"color: #1a56db;\">Your Upload Week is Confirmed! 🎉</h2><p>Hi {{ trigger[\"body\"][\"client_name\"] }},</p><p>Great news — your tax upload week has been successfully reserved:</p><div style=\"background: #f0f4ff; border-left: 4px solid #1a56db; padding: 16px; margin: 20px 0; border-radius: 4px;\"><strong>Primary Taxpayer:</strong> {{ trigger[\"body\"][\"client_name\"] }}<br><strong>Upload Week:</strong> {{ trigger[\"body\"][\"upload_week\"] }}<br><strong>Status:</strong> Pending Payment Confirmation</div><h3 style=\"color: #1a56db;\">What to Prepare</h3><ul><li>W-2 forms from all employers</li><li>1099 forms (freelance, dividends, interest)</li><li>Business receipts and expense records</li><li>Prior year tax return</li><li>Any relevant financial documents</li></ul><h3 style=\"color: #e53e3e;\">Complete Your Payment to Secure Your Spot</h3><p>Your reservation will be fully confirmed once payment is received. Spots are limited and held for 48 hours.</p><div style=\"text-align: center; margin: 30px 0;\"><a href=\"https://secure.cpacharge.com/pages/victorianguyen/payments\" style=\"background: #1a56db; color: white; padding: 14px 28px; text-decoration: none; border-radius: 6px; font-size: 16px; font-weight: bold; display: inline-block;\">Complete $260 Deposit →</a></div><p style=\"color: #666; font-size: 14px;\">Questions? Simply reply to this email.</p><p>Warmly,<br><strong>Victoria Nguyen EA</strong></p></div>"
+        }
+      }
+    }
+  ],
+  "variables": {
+    "zRxJcLi6EcsFdA3Z": {
+      "id": "zRxJcLi6EcsFdA3Z",
+      "rank": "V",
+      "type": "string",
+      "format": "taskade-project-id"
+    }
+  }
+}

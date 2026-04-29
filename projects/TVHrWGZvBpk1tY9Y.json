@@ -1,0 +1,2281 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "c0c73222-0e59-4786-8491-44cd22ebab23",
+        "text": {
+          "ops": [
+            {
+              "insert": "Available Upload Weeks"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "87041e12-6ac9-4709-a74f-8569573bc5cb",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 1: Jan "
+                },
+                {
+                  "insert": "4",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – Jan "
+                },
+                {
+                  "insert": "8",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "Jan 4 – Jan 8, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a872aa29-bd79-460c-8cd4-e839ee314e5f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 2: Jan 1"
+                },
+                {
+                  "insert": "1",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – Jan 1"
+                },
+                {
+                  "insert": "5",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "Jan 11 – Jan 15, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "90803171-9fe9-4334-a28c-9c52e6f3e63c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 3: Jan "
+                },
+                {
+                  "insert": "18",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – Jan 2"
+                },
+                {
+                  "insert": "2",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "Jan 18 – Jan 22, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "bd5fd602-27a9-42f2-84bd-6528227ea462",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 4: Jan 2"
+                },
+                {
+                  "insert": "5",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – Jan "
+                },
+                {
+                  "insert": "29",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "Jan 25 – Jan 29, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "0a543294-47e2-4f46-897b-f819367313ce",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 5: Feb "
+                },
+                {
+                  "insert": "1",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – Feb "
+                },
+                {
+                  "insert": "5",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "Feb 1 – Feb 5, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e7ca6909-c659-4952-9f3f-11a871cd2c0b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 6: Feb "
+                },
+                {
+                  "insert": "8",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – Feb 1"
+                },
+                {
+                  "insert": "2",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "Feb 8 – Feb 12, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b67a7f30-2894-4ec3-b88a-95659e2d5dd5",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 7: Feb 1"
+                },
+                {
+                  "insert": "5",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – Feb 1"
+                },
+                {
+                  "insert": "9",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "Feb 15 – Feb 19, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "1e77c65a-d27a-4cb0-ba8c-4758aecb47f7",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 8: Feb 2"
+                },
+                {
+                  "insert": "2",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – Feb 2"
+                },
+                {
+                  "insert": "6",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "Feb 22 – Feb 26, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "54f1d3bf-a522-4f25-9027-aca941136075",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 9: Mar "
+                },
+                {
+                  "insert": "1",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – Mar "
+                },
+                {
+                  "insert": "5",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "Mar 1 – Mar 5, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "01818d16-e169-49ee-be85-ea449c9b0cad",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 10: Mar "
+                },
+                {
+                  "insert": "8",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – Mar 1"
+                },
+                {
+                  "insert": "2",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "Mar 8 – Mar 12, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "1b2afdad-2b69-43d5-be83-930617ce03e5",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 11: Mar 1"
+                },
+                {
+                  "insert": "5",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – Mar 1"
+                },
+                {
+                  "insert": "9",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "Mar 15 – Mar 19, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e245b176-cb71-494d-a328-76344edf503f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 12: Mar 2"
+                },
+                {
+                  "insert": "2",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – Mar 2"
+                },
+                {
+                  "insert": "6",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "Mar 22 – Mar 26, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "04dd9322-f589-4a29-a83e-a4b0755b1eaa",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 13: Mar "
+                },
+                {
+                  "insert": "29",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – Apr "
+                },
+                {
+                  "insert": "2",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "Mar 29 – Apr 2, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "43aadc72-c44f-4814-98ea-df2490acc32b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 14: Apr "
+                },
+                {
+                  "insert": "5",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – Apr "
+                },
+                {
+                  "insert": "9",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "Apr 5 – Apr 9, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "9bbc25d0-af1e-432c-972d-8c158c25534c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 15: Apr 1"
+                },
+                {
+                  "insert": "2",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – Apr 1"
+                },
+                {
+                  "insert": "6",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "Apr 12 – Apr 16, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "4f87cd4c-638f-47ae-889b-612513354d14",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 16: Apr 1"
+                },
+                {
+                  "insert": "9",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – Apr 2"
+                },
+                {
+                  "insert": "3",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "Apr 19 – Apr 23, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "07bc9b47-abe3-417d-8a0c-fe61be72a3d0",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 17: Apr 2"
+                },
+                {
+                  "insert": "6",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – "
+                },
+                {
+                  "insert": "Apr",
+                  "attributes": {}
+                },
+                {
+                  "insert": " "
+                },
+                {
+                  "insert": "30",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "Apr 26 – Apr 30, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "8bd1744e-9c19-43d8-bc07-60527647fca0",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 18: May "
+                },
+                {
+                  "insert": "3",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – May "
+                },
+                {
+                  "insert": "7",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "May 3 – May 7, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "dfdbf868-1018-4c4c-9dc7-95d7d0b44d92",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 19: May 1"
+                },
+                {
+                  "insert": "0",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – May 1"
+                },
+                {
+                  "insert": "4",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "May 10 – May 14, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "6b389002-93fe-497d-89d0-1a895bc6ba9a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 20: May 1"
+                },
+                {
+                  "insert": "7",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – May 2"
+                },
+                {
+                  "insert": "1",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "May 17 – May 21, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "4bd11ac0-2e8d-4b2b-8e19-69cc90f63708",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 21: May 2"
+                },
+                {
+                  "insert": "4",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – May "
+                },
+                {
+                  "insert": "28",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "May 24 – May 28, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "511c9ae7-703d-4b63-b69e-68bccb3c1195",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 22: "
+                },
+                {
+                  "insert": "May",
+                  "attributes": {}
+                },
+                {
+                  "insert": " "
+                },
+                {
+                  "insert": "31",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – Jun "
+                },
+                {
+                  "insert": "4",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "May 31 – Jun 4, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a077d015-b961-41b5-b655-e9f36ec94529",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 23: Jun "
+                },
+                {
+                  "insert": "7",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – Jun 1"
+                },
+                {
+                  "insert": "1",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "Jun 7 – Jun 11, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f83700ec-32d3-4796-8511-d664f2cdb0d3",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 24: Jun 1"
+                },
+                {
+                  "insert": "4",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – Jun "
+                },
+                {
+                  "insert": "18",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "Jun 14 – Jun 18, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "9eece20a-91e5-40d8-b072-90c254698764",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 25: Jun 2"
+                },
+                {
+                  "insert": "1",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – Jun 2"
+                },
+                {
+                  "insert": "5",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "Jun 21 – Jun 25, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "eaf1b9f5-3390-4063-8f50-34a6253a650e",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 26: Jun "
+                },
+                {
+                  "insert": "28",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – Jul "
+                },
+                {
+                  "insert": "2",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "Jun 28 – Jul 2, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "ed723afa-edbd-46c9-a225-5fc827fd4350",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 27: Jul "
+                },
+                {
+                  "insert": "5",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – Jul "
+                },
+                {
+                  "insert": "9",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "Jul 5 – Jul 9, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e7467881-534a-4603-a8e8-940484716aac",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 28: Jul 1"
+                },
+                {
+                  "insert": "2",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – Jul 1"
+                },
+                {
+                  "insert": "6",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "Jul 12 – Jul 16, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "ef258cea-69ac-4bda-9a8e-bd231cf62e99",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 29: Jul 1"
+                },
+                {
+                  "insert": "9",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – Jul 2"
+                },
+                {
+                  "insert": "3",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "Jul 19 – Jul 23, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d6f40a4b-ec98-49a7-8cb2-87a96a2d032d",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 30: Jul 2"
+                },
+                {
+                  "insert": "6",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – "
+                },
+                {
+                  "insert": "J",
+                  "attributes": {}
+                },
+                {
+                  "insert": "u"
+                },
+                {
+                  "insert": "l",
+                  "attributes": {}
+                },
+                {
+                  "insert": " "
+                },
+                {
+                  "insert": "30",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "Jul 26 – Jul 30, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f3589f49-ff97-416e-8c9d-3dce267e6426",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 31: Aug "
+                },
+                {
+                  "insert": "2",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – Aug "
+                },
+                {
+                  "insert": "6",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "Aug 2 – Aug 6, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "9cdb5e94-0820-4148-abd0-dfc10b41fc6f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 32: Aug "
+                },
+                {
+                  "insert": "9",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – Aug 1"
+                },
+                {
+                  "insert": "3",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "Aug 9 – Aug 13, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "27e16b0e-3aec-4780-8aa6-951dcf8e7f31",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 33: Aug 1"
+                },
+                {
+                  "insert": "6",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – Aug 2"
+                },
+                {
+                  "insert": "0",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "Aug 16 – Aug 20, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "0d6bb632-6417-497d-beaa-d16c065a02fb",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 34: Aug 2"
+                },
+                {
+                  "insert": "3",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – Aug 2"
+                },
+                {
+                  "insert": "7",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "Aug 23 – Aug 27, 2027"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "8ccafe84-9e9b-4c0d-b1ba-837afccb8494",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Week 35: "
+                },
+                {
+                  "insert": "Aug",
+                  "attributes": {}
+                },
+                {
+                  "insert": " "
+                },
+                {
+                  "insert": "30",
+                  "attributes": {}
+                },
+                {
+                  "insert": " – Sep "
+                },
+                {
+                  "insert": "3",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@wkCap": 10,
+              "@wkBkd": 0,
+              "@wkSts": {
+                "type": "Select",
+                "optionId": "wk-open"
+              },
+              "@wkDt": "Aug 30 – Sep 3, 2027"
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "views": {
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@wkCap": {
+            "id": "/attributes/@wkCap",
+            "fieldPath": "/attributes/@wkCap",
+            "rank": "z"
+          },
+          "/attributes/@wkBkd": {
+            "id": "/attributes/@wkBkd",
+            "fieldPath": "/attributes/@wkBkd",
+            "rank": "zV"
+          },
+          "/attributes/@wkSts": {
+            "id": "/attributes/@wkSts",
+            "fieldPath": "/attributes/@wkSts",
+            "rank": "zk"
+          },
+          "/attributes/@wkDt": {
+            "id": "/attributes/@wkDt",
+            "fieldPath": "/attributes/@wkDt",
+            "rank": "zs"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@wkCap": {
+            "id": "/attributes/@wkCap",
+            "fieldPath": "/attributes/@wkCap",
+            "rank": "z"
+          },
+          "/attributes/@wkBkd": {
+            "id": "/attributes/@wkBkd",
+            "fieldPath": "/attributes/@wkBkd",
+            "rank": "zV"
+          },
+          "/attributes/@wkSts": {
+            "id": "/attributes/@wkSts",
+            "fieldPath": "/attributes/@wkSts",
+            "rank": "zk"
+          },
+          "/attributes/@wkDt": {
+            "id": "/attributes/@wkDt",
+            "fieldPath": "/attributes/@wkDt",
+            "rank": "zs"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "D",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@wkCap": {
+            "id": "/attributes/@wkCap",
+            "fieldPath": "/attributes/@wkCap",
+            "rank": "z"
+          },
+          "/attributes/@wkBkd": {
+            "id": "/attributes/@wkBkd",
+            "fieldPath": "/attributes/@wkBkd",
+            "rank": "zV"
+          },
+          "/attributes/@wkSts": {
+            "id": "/attributes/@wkSts",
+            "fieldPath": "/attributes/@wkSts",
+            "rank": "zk"
+          },
+          "/attributes/@wkDt": {
+            "id": "/attributes/@wkDt",
+            "fieldPath": "/attributes/@wkDt",
+            "rank": "zs"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "E",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@wkCap": {
+            "id": "/attributes/@wkCap",
+            "fieldPath": "/attributes/@wkCap",
+            "rank": "z"
+          },
+          "/attributes/@wkBkd": {
+            "id": "/attributes/@wkBkd",
+            "fieldPath": "/attributes/@wkBkd",
+            "rank": "zV"
+          },
+          "/attributes/@wkSts": {
+            "id": "/attributes/@wkSts",
+            "fieldPath": "/attributes/@wkSts",
+            "rank": "zk"
+          },
+          "/attributes/@wkDt": {
+            "id": "/attributes/@wkDt",
+            "fieldPath": "/attributes/@wkDt",
+            "rank": "zs"
+          }
+        }
+      },
+      "gantt": {
+        "id": "gantt",
+        "type": "gantt",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@wkCap": {
+            "id": "/attributes/@wkCap",
+            "fieldPath": "/attributes/@wkCap",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@wkBkd": {
+            "id": "/attributes/@wkBkd",
+            "fieldPath": "/attributes/@wkBkd",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@wkSts": {
+            "id": "/attributes/@wkSts",
+            "fieldPath": "/attributes/@wkSts",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@wkDt": {
+            "id": "/attributes/@wkDt",
+            "fieldPath": "/attributes/@wkDt",
+            "rank": "zs",
+            "hidden": false
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "V",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@wkCap": {
+            "id": "/attributes/@wkCap",
+            "fieldPath": "/attributes/@wkCap",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@wkBkd": {
+            "id": "/attributes/@wkBkd",
+            "fieldPath": "/attributes/@wkBkd",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@wkSts": {
+            "id": "/attributes/@wkSts",
+            "fieldPath": "/attributes/@wkSts",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@wkDt": {
+            "id": "/attributes/@wkDt",
+            "fieldPath": "/attributes/@wkDt",
+            "rank": "zs",
+            "hidden": false
+          }
+        }
+      }
+    },
+    "fields": {
+      "@wkCap": {
+        "type": "number",
+        "displayName": "Max Capacity",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      },
+      "@wkBkd": {
+        "type": "number",
+        "displayName": "Booked",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      },
+      "@wkSts": {
+        "type": "Select",
+        "displayName": "Status",
+        "options": {
+          "wk-open": {
+            "id": "wk-open",
+            "name": "Open",
+            "color": "#10B981",
+            "rank": "0"
+          },
+          "wk-full": {
+            "id": "wk-full",
+            "name": "Full",
+            "color": "#EF4444",
+            "rank": "1"
+          },
+          "wk-closed": {
+            "id": "wk-closed",
+            "name": "Closed",
+            "color": "#6B7280",
+            "rank": "2"
+          }
+        }
+      },
+      "@wkDt": {
+        "type": "string",
+        "displayName": "Week Dates"
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "table",
+    "avatar": {
+      "type": "emoji",
+      "value": "🎖️"
+    }
+  }
+}

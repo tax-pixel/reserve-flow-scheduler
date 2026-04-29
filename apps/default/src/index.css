@@ -1,0 +1,135 @@
+/* Tailwind CSS v3 */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Victoria Nguyen EA — Light mode: clean white + navy + gold */
+    --background: 210 20% 98%;
+    --foreground: 222 30% 12%;
+    --muted: 210 20% 93%;
+    --muted-foreground: 215 15% 50%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222 30% 12%;
+    --border: 214 20% 88%;
+    --input: 214 20% 88%;
+    --card: 0 0% 100%;
+    --card-foreground: 222 30% 12%;
+    /* Navy primary — matches site navy CTA buttons */
+    --primary: 226 70% 55%;
+    --primary-foreground: 210 40% 98%;
+    --secondary: 210 20% 93%;
+    --secondary-foreground: 222 30% 12%;
+    --accent: 210 20% 93%;
+    --accent-foreground: 222 30% 12%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 210 40% 98%;
+    --ring: 226 70% 55%;
+    --radius: 0.75rem;
+    /* Gold highlight */
+    --gold: #f9ec00;
+    --navy: #1a2d5a;
+  }
+
+  .dark {
+    /* Victoria Nguyen EA — Dark mode: deep navy bg */
+    --background: 210 20% 3%;
+    --foreground: 222 30% 88%;
+    --muted: 210 20% 10%;
+    --muted-foreground: 215 15% 55%;
+    --accent: 210 20% 10%;
+    --accent-foreground: 222 30% 88%;
+    --popover: 0 0% 3%;
+    --popover-foreground: 222 30% 88%;
+    --border: 214 20% 12%;
+    --input: 214 20% 12%;
+    --card: 0 0% 3%;
+    --card-foreground: 222 30% 88%;
+    /* Lighter navy for dark bg */
+    --primary: 226 70% 45%;
+    --primary-foreground: 210 40% 2%;
+    --secondary: 210 20% 8%;
+    --secondary-foreground: 222 30% 88%;
+    --destructive: 0 70% 39%;
+    --destructive-foreground: 210 40% 90%;
+    --ring: 226 50% 20%;
+    --radius: 0.75rem;
+    --gold: #f9ec00;
+    --navy: #1a2d5a;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply font-sans antialiased bg-background text-foreground;
+  }
+}
+
+:root {
+  --sidebar: hsl(0 0% 98%);
+  --sidebar-foreground: hsl(240 5.3% 26.1%);
+  --sidebar-primary: hsl(240 5.9% 10%);
+  --sidebar-primary-foreground: hsl(0 0% 98%);
+  --sidebar-accent: hsl(240 4.8% 95.9%);
+  --sidebar-accent-foreground: hsl(240 5.9% 10%);
+  --sidebar-border: hsl(220 13% 91%);
+  --sidebar-ring: hsl(217.2 91.2% 59.8%);
+}
+
+.dark {
+  --sidebar: hsl(240 5.9% 10%);
+  --sidebar-foreground: hsl(240 4.8% 95.9%);
+  --sidebar-primary: hsl(224.3 76.3% 48%);
+  --sidebar-primary-foreground: hsl(0 0% 100%);
+  --sidebar-accent: hsl(240 3.7% 15.9%);
+  --sidebar-accent-foreground: hsl(240 4.8% 95.9%);
+  --sidebar-border: hsl(240 3.7% 15.9%);
+  --sidebar-ring: hsl(217.2 91.2% 59.8%);
+}
+
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+/* Full screen spinner styles */
+.genesis__spinner-container {
+  position: fixed;
+  inset: 0;
+  background: #000000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+}
+
+.genesis__spinner-ring {
+  width: 20px;
+  height: 20px;
+  border: 1.5px solid transparent;
+  border-top: 1.5px solid rgba(255, 255, 255, 0.6);
+  border-radius: 50%;
+  animation: genesis__spin 1s linear infinite;
+}
+
+@keyframes genesis__spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Respect reduced motion preferences */
+@media (prefers-reduced-motion: reduce) {
+  .genesis__spinner-ring {
+    animation: none;
+    border-top-color: rgba(255, 255, 255, 0.9);
+  }
+}
